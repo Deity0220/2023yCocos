@@ -1,0 +1,15 @@
+{
+    "name": "wesanepackage",
+    "version": "0.0.1",
+    "description": "打包相关插件",
+    "author": "WenChao",
+    "main": "main.js",
+    "main-menu": {
+        "WeSane/打包微伞zip": {
+            "message": "wesanepackage:weSaneZip"
+        },
+        "WeSane/打包通用zip": {
+            "message": "wesanepackage:commonH5Zip"
+        }
+    }
+  }

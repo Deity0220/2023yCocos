@@ -1,0 +1,38 @@
+{
+  "ver": "2.3.7",
+  "uuid": "18601be5-671e-43b9-bac4-d4f5e5c532a0",
+  "importer": "texture",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 300,
+  "height": 300,
+  "platformSettings": {},
+  "subMetas": {
+    "Energy 064 asset-_00016": {
+      "ver": "1.0.6",
+      "uuid": "22d0139c-1f16-4efb-8080-e26a86e15cd4",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "18601be5-671e-43b9-bac4-d4f5e5c532a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4,
+      "offsetY": -31.5,
+      "trimX": 101,
+      "trimY": 142,
+      "width": 90,
+      "height": 79,
+      "rawWidth": 300,
+      "rawHeight": 300,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
